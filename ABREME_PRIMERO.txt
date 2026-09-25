@@ -1,0 +1,35 @@
+🌸 JARDÍN DE CUMPLEAÑOS — REGALO COMPLETO 🌸
+
+¡La página ya está armada! No tienes que programar nada para disfrutarla.
+
+PARA VER EL REGALO:
+1. Descomprime el ZIP por completo.
+2. Abre index.html con Chrome, Edge o Firefox.
+3. Recorre los 10 menús, abre cartas, mira las postales, pulsa
+   las tarjetas de amigas, sopla la vela y reproduce las canciones.
+
+TODO INCLUIDO:
+- Página de cumpleaños con gatito, flores y colores crema/rosa.
+- Historia de amistad (4 capítulos).
+- Álbum de 6 postales ilustradas originales (no son fotos de personas reales).
+- 4 tarjetas de amigas con mensajes ocultos.
+- 6 confesiones, 4 cartas para abrir, 8 deseos y 7 preguntas de juego.
+- Vela interactiva con confeti y sorpresa final.
+- 3 melodías originales incluidas. Funcionan sin conexión a internet.
+- Panel de personalización para editar nombres, textos, fotografías,
+  mensajes, colores, música y preguntas sin saber programación.
+
+PARA PERSONALIZAR DESPUÉS:
+Pulsa «Personalizar», realiza los cambios, pulsa «Guardar cambios»
+y usa «Descargar datos.js». Sustituye el archivo datos.js de la carpeta
+por el descargado. Así tus cambios viajan con el regalo cuando lo compartas.
+También puedes editar directamente datos.js, estilos.css e index.html.
+
+IMPORTANTE:
+Los nombres, mensajes y postales son contenido ilustrativo. Como todavía
+no conocemos el nombre, la fecha de cumpleaños ni las fotos reales de la
+cumpleañera, esos detalles quedan listos para que los cambies cuando quieras.
+El botón para escribir confesiones guarda el texto únicamente en el navegador
+de la persona que lo escribe (no lo envía a otras personas).
+
+Todo el sitio funciona desconectado; abre el archivo index.html. ♡
