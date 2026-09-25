@@ -1,0 +1,9 @@
+Estas TRES MELODÍAS ORIGINALES vienen incluidas con el regalo:
+
+- flores_para_tu_dia.wav
+- un_pedacito_de_cielo.wav
+- gatito_entre_estrellas.wav
+
+Puedes reproducirlas sin conexión desde la sección «Música».
+Si quieres cambiar la playlist, entra en «Personalizar» o edita datos.js.
+Para tus propias canciones utiliza únicamente archivos que tengas derecho a compartir.

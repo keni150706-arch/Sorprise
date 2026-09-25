@@ -1,0 +1,10 @@
+PON AQUÍ TUS FOTOGRAFÍAS
+========================
+Puedes copiar aquí fotos JPG, PNG o WEBP y luego abrir datos.js.
+Ejemplo: coloca amistad.jpg y cambia una imagen por:
+  imagen: 'assets/fotos/amistad.jpg'
+
+MÁS FÁCIL: abre index.html, toca «Personalizar» > «Fotos» y sube
+cada imagen. Después toca «Guardar cambios». Para compartir los
+cambios con la persona del cumpleaños, usa «Descargar datos.js»,
+reemplaza el archivo original y vuelve a comprimir toda la carpeta.
